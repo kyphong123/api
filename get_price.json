@@ -1,26 +1,5 @@
-[
-   {
-      "categorie":"Fruits",
-      "id":"1"
-   },
-   {
-      "categorie":"Animals",
-      "id":"2"
-   },
-   {
-      "categorie":"Vegetables",
-      "id":"3"
-   },
-   {
-      "categorie":"Juices",
-      "id":"4"
-   },
-   {
-      "categorie":"Alcohol",
-      "id":"5"
-   },
-   {
-      "categorie":"Desserts",
-      "id":"6"
-   }
-]
+{
+    "name" : "TopDev",
+    "title" : "Việc làm IT cho Top Developers",
+    "description" : "là hệ sinh thái bao gồm cộng đồng các Top Developers."
+}
